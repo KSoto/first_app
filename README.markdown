@@ -1,3 +1,6 @@
+Hey hey, this is Katie soto..
+just editing this readme file..
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
