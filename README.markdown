@@ -1,6 +1,9 @@
 Hey hey, this is Katie soto..
 just editing this readme file..
 
+Here is the link to the deployed Heroku project!
+http://vivid-winter-2936.heroku.com/
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
